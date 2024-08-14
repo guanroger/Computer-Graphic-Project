@@ -1,0 +1,7 @@
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW1\Assignment1\x64\Debug\Assignment1.exe
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW2.3\x64\Debug\Assignment2.exe
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\Shanding Example\x64\Debug\Shanding Example.exe
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\Shanding Example - 複製\x64\Debug\Shanding Example.exe
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\Shanding Example 2\x64\Debug\Shanding Example.exe
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW3\x64\Debug\Shanding Example.exe
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\x64\Debug\Shanding Example.exe

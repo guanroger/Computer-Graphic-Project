@@ -1,0 +1,59 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (Assignment1.vcxproj, Assignment2.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  rotate-cube-shading.cpp
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(343,31): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(358,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(358,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(358,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(359,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(359,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(359,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(360,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(360,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(360,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(389,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(389,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(389,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(390,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(390,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(390,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(391,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(391,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(391,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(433,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(433,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(433,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(434,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(434,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(434,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(435,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(435,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(435,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(453,182): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(454,182): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(455,182): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(549,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(563,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(563,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(563,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(564,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(564,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(564,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(565,68): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(565,51): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(565,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(782,33): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(781,56): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(780,33): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(789,44): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(788,44): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(787,44): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(1347,20): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(1616,70): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(1623,19): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(2934,21): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(2936,69): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(2961,20): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(3428,20): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(3696,38): warning C4474: 'scanf_s': 傳遞給格式字串的引數太多
+D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\rotate-cube-shading.cpp(3696,38): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  Assignment1.vcxproj -> D:\TemDrive\研究所\NYU stuff\CS-GY 6533 Computer Graphic\Project\CS-GY6533\HW4\x64\Debug\Shanding Example.exe

@@ -1,0 +1,2 @@
+﻿  sample.cpp
+LINK : fatal error LNK1104: 無法開啟檔案 'freeglut.lib'
